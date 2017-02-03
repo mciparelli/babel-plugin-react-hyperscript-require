@@ -1,0 +1,29 @@
+{
+  "name": "babel-plugin-react-hyperscript-require",
+  "version": "0.0.0",
+  "description": "Babel plugin that adds react-hyperscript import declaration",
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "require",
+    "react-hyperscript",
+    "react"
+  ],
+  "bugs": {
+    "url": "https://github.com/siddharthkp/babel-plugin-react-hyperscript-require/issues"
+  },
+  "license": "MIT",
+  "author": "mciparelli",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "mciparelli/babel-plugin-react-hyperscript-require"
+  },
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register"
+  },
+  "devDependencies": {
+    "babel-core": "6.22.1",
+    "mocha": "3.2.0"
+  }
+}
