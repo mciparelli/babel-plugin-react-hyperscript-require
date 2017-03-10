@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-react-hyperscript-require",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Babel plugin that adds react-hyperscript import declaration",
   "keywords": [
     "babel",
