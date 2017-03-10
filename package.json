@@ -10,7 +10,7 @@
     "react"
   ],
   "bugs": {
-    "url": "https://github.com/siddharthkp/babel-plugin-react-hyperscript-require/issues"
+    "url": "https://github.com/mciparelli/babel-plugin-react-hyperscript-require/issues"
   },
   "license": "MIT",
   "author": "mciparelli",

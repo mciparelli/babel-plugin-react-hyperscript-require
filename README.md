@@ -1,13 +1,13 @@
 ### babel-plugin-react-hyperscript-require
 [![Build
-Status](https://api.travis-ci.org/siddharthkp/babel-plugin-react-hyperscript-require.svg?branch=master)](https://travis-ci.org/siddharthkp/babel-plugin-react-hyperscript-require)
+Status](https://api.travis-ci.org/mciparelli/babel-plugin-react-hyperscript-require.svg?branch=master)](https://travis-ci.org/mciparelli/babel-plugin-react-hyperscript-require)
 [![npm](https://img.shields.io/npm/v/babel-plugin-react-hyperscript-require.svg?maxAge=3600)](https://www.npmjs.com/package/babel-plugin-react-hyperscript-require)
 
 &nbsp;
 
 Babel plugin that adds react-hyperscript import declaration
 
-_(this repo was cloned from [styled-components-require](https://github.com/siddharthkp/babel-plugin-styled-components-require)
+_(this repo was cloned from [styled-components-require](https://github.com/mciparelli/babel-plugin-styled-components-require)
 and modified to be used with [react-hyperscript](https://github.com/mlmorg/react-hyperscript))_
 
 &nbsp;
